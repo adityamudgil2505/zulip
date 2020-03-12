@@ -125,6 +125,6 @@ sudo apt install zulip
 
 ## Related articles
 
-* [Connect through a proxy](/help/connect-through-a-proxy.md)
-* [Add a custom certificate](/help/custom-certificates.md)
+* [Connect through a proxy](/templates/zerver/help/connect-through-a-proxy.md)
+* [Add a custom certificate](/templates/zerver/help/custom-certificates.md)
 * [Desktop installation guides](https://zulipchat.com/help/desktop-app-install-guide)
